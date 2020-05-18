@@ -1,0 +1,5 @@
+mapname:mapHunt
+agentExplo:Explo1:2:free:-1:0:0:0:0
+agentExplo:Explo2:2:free:-1:0:0:0:0
+agentExplo:Explo3:2:free:-1:0:0:0:0
+wumpus:Golem:0:free:-1:0:1:0:0
